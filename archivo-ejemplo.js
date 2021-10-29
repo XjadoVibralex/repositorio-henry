@@ -1,2 +1,3 @@
-var saludo = "hola mundo";
-console.log(saludo);
+var saludo = "hola mundo"
+var adios = "chau"
+console.log(saludo)
